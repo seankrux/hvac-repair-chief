@@ -106,7 +106,7 @@ export function ServiceAreas() {
         <div className="max-w-4xl mx-auto">
           <div className="bg-gradient-to-r from-cyan-600/10 to-teal-500/10 border-2 border-cyan-600/30 rounded-2xl p-8 md:p-12 text-center">
             <h3 className="text-2xl md:text-3xl font-bold text-slate-900 mb-4">
-              Don't See Your City Listed?
+              Don&apos;t See Your City Listed?
             </h3>
             <p className="text-lg text-slate-600 mb-6">
               We may still serve your area! Give us a call to check if we can help with your HVAC project.
