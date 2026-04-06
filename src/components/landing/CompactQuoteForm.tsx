@@ -39,7 +39,7 @@ export function CompactQuoteForm({ serviceName }: CompactQuoteFormProps) {
         <CheckCircle className="h-8 w-8 text-green-400 flex-shrink-0" />
         <div>
           <p className="font-bold text-slate-900">Request Received!</p>
-          <p className="text-sm text-slate-600">We'll call you within 24 hours.</p>
+          <p className="text-sm text-slate-600">We&apos;ll call you within 24 hours.</p>
         </div>
       </div>
     );
