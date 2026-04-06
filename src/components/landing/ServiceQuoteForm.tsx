@@ -65,7 +65,7 @@ export function ServiceQuoteForm({ serviceName }: ServiceQuoteFormProps) {
         <CheckCircle className="h-12 w-12 text-green-400 mx-auto mb-4" />
         <h3 className="text-2xl font-bold text-slate-900 mb-2">Request Received!</h3>
         <p className="text-slate-600">
-          Thank you! We'll contact you within 24 hours to discuss your {serviceName} needs.
+          Thank you! We&apos;ll contact you within 24 hours to discuss your {serviceName} needs.
         </p>
       </div>
     );
@@ -75,7 +75,7 @@ export function ServiceQuoteForm({ serviceName }: ServiceQuoteFormProps) {
     <div className="bg-slate-100/80 border border-slate-700 rounded-xl p-8 sticky top-24">
       <h3 className="text-2xl font-bold text-slate-900 mb-2">Get a Free Quote</h3>
       <p className="text-slate-600 mb-6">
-        Fill out the form below and we'll contact you within 24 hours
+        Fill out the form below and we&apos;ll contact you within 24 hours
       </p>
 
       <form onSubmit={handleSubmit} className="space-y-4">
@@ -190,7 +190,7 @@ export function ServiceQuoteForm({ serviceName }: ServiceQuoteFormProps) {
 
       <div className="mt-6 pt-6 border-t border-slate-700">
         <p className="text-sm text-slate-500 text-center mb-3">
-          Prefer to call? We're here to help!
+          Prefer to call? We&apos;re here to help!
         </p>
         <a
           href="tel:+19542896718"
